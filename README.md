@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="55"/>
 </p>
 
-### 🗄 SQL
+### 🗄 Database
 
 <p align="left">
   <!-- Database Icon (3 layers) -->
