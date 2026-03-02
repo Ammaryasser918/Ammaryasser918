@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Student
-- 🏆 Preparing for ECPC
+- 🏆 Joined ECPC
 - 🔥 Focused on Backend Development using .NET
 - 📈 Improving my Data Structures & Algorithms daily
 - 🎯 Goal: Become a Strong Backend Engineer & Qualify for ECPC
