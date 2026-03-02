@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-💻 Backend Developer (.NET) | 🧠 Problem Solver | 🚀 Future Software Engineer
+💻 Backend Developer (.NET) | 🧠 Problem Solver
 </h3>
 
 ---
