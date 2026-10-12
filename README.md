@@ -119,15 +119,6 @@
 - Prefix Sum & 2D Prefix
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ammaryasser918&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ammaryasser918&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🔥 Current Focus
